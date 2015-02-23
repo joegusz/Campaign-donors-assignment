@@ -22,3 +22,7 @@ for row in data:
    if row[16] != 'NY':
        print row
 
+# I had trouble performing the append function
+# I also wasn't able to run this code in my terminal.
+# (I know it works because I was working w/ a friend who ran it in his terminal.)
+# But when I told python to run the program, nothing happened. 
